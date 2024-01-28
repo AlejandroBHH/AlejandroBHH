@@ -29,4 +29,4 @@ If you would like to contribute to any of the projects, please fork the reposito
 If you have any questions or feedback, please feel free to reach out to me at alejandrobhid@gmail.com :incoming_envelope:	.
 
 Thank you for visiting my repository!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
